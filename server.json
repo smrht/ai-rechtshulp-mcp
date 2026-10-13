@@ -3,7 +3,7 @@
   "name": "io.github.smrht/ai-rechtshulp",
   "title": "AI Rechtshulp",
   "description": "Search Dutch and EU case law with ECLI sources and verify quotes against the judgment.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://ai-rechtshulp.nl/",
   "repository": {
     "url": "https://github.com/smrht/ai-rechtshulp-mcp",
